@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- About me: Estudante de Analise e Desenvolvimento de Sistemas na ** @FIAP **
+- About me: Estudante de Analise e Desenvolvimento de Sistemas na **@FIAP**
   
   Meus estudos são principalmente em desenvolvimento FrontEnd
   
