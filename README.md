@@ -3,7 +3,7 @@
 
 - About me: Estudante de Analise e Desenvolvimento de Sistemas na **@FIAP**
   
-  Meus estudos são principalmente em desenvolvimento FrontEnd
+  Meus estudos são focados principalmente em desenvolvimento FrontEnd
   
   Sou apaixonada por CSS, UX Design e joguinhos :space_invader:
 
