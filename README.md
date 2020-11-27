@@ -9,5 +9,5 @@
 
 - 📫 How to reach me: andressasantosp0@gmail.com
 - 😄 Pronouns: She/Her
-- I speak Portuguese, English and Korean :br: :kr: :us:
+- I speak Portuguese, English and Korean
 
