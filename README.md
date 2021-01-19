@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- About me:  CSS lover, UX Design e games :space_invader:
+- About me:  CSS lover, UX Design enthusiast e games :space_invader:
 
 - 📫 How to reach me: andressasantosp0@gmail.com
 - 😄 Pronouns: She/Her
