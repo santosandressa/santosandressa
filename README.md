@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 
-- About me: Estudante de Analise e Desenvolvimento de Sistemas na **@FIAP**
-  
-  Meus estudos são focados principalmente em desenvolvimento FrontEnd
-  
-  Sou apaixonada por CSS, UX Design e joguinhos :space_invader:
+- About me:  CSS lover, UX Design e games :space_invader:
 
 - 📫 How to reach me: andressasantosp0@gmail.com
 - 😄 Pronouns: She/Her
