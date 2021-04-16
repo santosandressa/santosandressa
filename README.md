@@ -11,7 +11,7 @@
 ## <b>How to reach me:</b>
 
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andressasantosp0@gmail.com)](mailto:andressasantosp0@gmail.com)
+[![Gmail Badge](#https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andressasantosp0@gmail.com)](mailto:andressasantosp0@gmail.com)
 
 
 
