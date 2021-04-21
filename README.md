@@ -3,7 +3,6 @@
 
 
 - <b>About me</b>:  Java Developer student, CSS lover and a little bit gamer :space_invader:
-- <b>Learning</b>: Java and Python. 
 - <b>Pronouns</b>: She/Her
 - <b>I speak</b>: Portuguese, English and Korean
 
