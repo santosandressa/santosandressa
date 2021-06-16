@@ -18,4 +18,7 @@
 ![SPRINGBOOT](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=santosandressa&layout=compact&hide=javascript,html|&theme=radical)
  
