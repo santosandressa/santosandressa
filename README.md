@@ -2,7 +2,7 @@
 
 
 
-- <b>About me</b>:  Java Developer student, CSS lover and a little bit gamer :space_invader:
+- <b>About me</b>:  Java Developer, CSS lover and a little bit gamer :space_invader:
 - <b>Pronouns</b>: She/Her
 - <b>I speak</b>: Portuguese, English and Korean
 
