@@ -1,6 +1,6 @@
 # Hi there 안녕 👋
 
-<h3 align="left">Java developer from Brazil</h3>
+<h3 align="left">Java junior developer from Brazil</h3>
 
 - <b>Pronouns</b>: She/Her
 - <b>I speak</b>: Portuguese, English and Korean
