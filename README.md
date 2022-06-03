@@ -20,6 +20,5 @@
 
 
 ## 📊GitHub Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=santosandressa&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=santosandressa&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
