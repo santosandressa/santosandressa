@@ -7,7 +7,7 @@
 ###
 
 <p align="left">My name is Andressa and I'm from São Paulo - Brazil</p>
-<p align="left">Currently working as Front-End Angular Developer, but I also have a background as Java developer</p>
+<p align="left">Back end Developer</p>
 
 - <b>Pronouns</b>: She/Her
 - <b>I speak</b>: Portuguese, English and Korean
