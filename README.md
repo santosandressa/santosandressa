@@ -7,7 +7,7 @@
 ###
 
 <p align="left">My name is Andressa and I'm from São Paulo - Brazil</p>
-<p align="left">Back end Developer</p>
+<p align="left">Back End Developer</p>
 
 - <b>Pronouns</b>: She/Her
 - <b>I speak</b>: Portuguese, English and Korean
@@ -25,9 +25,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
